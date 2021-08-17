@@ -1,2 +1,2 @@
 # Tech-Info-Webpage
-A HTML/CSS based ICT project from my freshmen year. Topic chosen was Human Computer Interaction. The theme was to build a tech info webpage.
+This was an HTML/CSS based ICT project from my freshman year. One tech-based topic was to be chosen and a webpage was to be built upon it. Topic chosen by me was Human Computer Interaction | Remember to add photos in the same folder as the .html and .css files.
